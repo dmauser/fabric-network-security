@@ -1,0 +1,17 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {},
+    "resources": [
+        {
+            "type": "Microsoft.Fabric/privateLinkServicesForFabric",
+            "apiVersion": "2024-06-01",
+            "name": "Workspace2",
+            "location": "global",
+            "properties": {
+                "tenantId": "ebf541ac-cacf-4a40-b46e-1accc3810ef8",
+                "workspaceId": "3ce22ac2-51d8-4212-8ca0-9cc20918af21"
+            }
+        }
+    ]
+}

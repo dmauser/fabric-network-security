@@ -1,0 +1,16 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {},
+    "resources": [
+        {
+            "type": "Microsoft.PowerBI/privateLinkServicesForPowerBI",
+            "apiVersion": "2020-06-01",
+            "name": "fabric-pl1",
+            "location": "global",
+            "properties": {
+                "tenantId": "ebf541ac-cacf-4a40-b46e-1accc3810ef8"
+            }
+        }
+    ]
+}
