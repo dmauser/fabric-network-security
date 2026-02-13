@@ -875,8 +875,8 @@
         "type": 3
       },
       "seed": 1444361619,
-      "version": 1722,
-      "versionNonce": 569233556,
+      "version": 1723,
+      "versionNonce": 362287642,
       "isDeleted": false,
       "boundElements": [
         {
@@ -884,8 +884,8 @@
           "id": "OxSRcwUChjNvAt4k-V8Oc"
         }
       ],
-      "updated": 1770856322204,
-      "link": null,
+      "updated": 1770992372176,
+      "link": "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json&bc=fabric/data-factory/breadcrumb/toc.json",
       "locked": false
     },
     {
@@ -3475,10 +3475,10 @@
     {
       "id": "1mbtrY7bHVYfshjtwkPdO",
       "type": "text",
-      "x": 586.425959823591,
-      "y": -131.66509778292863,
-      "width": 362.0484829665455,
-      "height": 108.87547053908303,
+      "x": 637.5247590000541,
+      "y": -126.72005574388999,
+      "width": 315.8947069652826,
+      "height": 94.99607505558568,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
@@ -3492,15 +3492,15 @@
       "index": "b1H",
       "roundness": null,
       "seed": 2071927005,
-      "version": 4027,
-      "versionNonce": 1747626438,
+      "version": 4387,
+      "versionNonce": 88960794,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1770951685019,
+      "updated": 1770991893437,
       "link": null,
       "locked": false,
       "text": "1. Managed Private Endpoints\n2. Data Gateways\n-> 2.1 - On-premies Data Gateway\n-> 2.2 - Virtual Network Gateway",
-      "fontSize": 21.77509410781656,
+      "fontSize": 18.9992150111171,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
