@@ -4027,12 +4027,12 @@
     {
       "id": "hfwmt3HV4yUe3u-KdTgmu",
       "type": "arrow",
-      "x": 600.1100273423457,
-      "y": -9.412559974103544,
-      "width": 129.25959195710186,
-      "height": 46.48086453895859,
+      "x": 615.1098747544551,
+      "y": -31.912483680158232,
+      "width": 132.5930270156956,
+      "height": 1.0190210201234393,
       "angle": 0,
-      "strokeColor": "#6741d9",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 1,
@@ -4046,11 +4046,11 @@
         "type": 2
       },
       "seed": 172976938,
-      "version": 537,
-      "versionNonce": 1105352682,
+      "version": 674,
+      "versionNonce": 105890538,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1770934050784,
+      "updated": 1770945088173,
       "link": null,
       "locked": false,
       "points": [
@@ -4059,30 +4059,30 @@
           0
         ],
         [
-          129.25959195710186,
-          46.48086453895859
+          132.5930270156956,
+          -1.0190210201234393
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "XjIw8V-Ib2J3Iio8QMp5e",
-        "focus": 0.05811767521780092,
-        "gap": 8.047114993919024
+        "focus": -0.11125195227404912,
+        "gap": 9.827991845786073
       },
       "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": "triangle",
+      "startArrowhead": "triangle",
+      "endArrowhead": null,
       "elbowed": false
     },
     {
       "id": "YxTRDc0jvYuiSRHs6Savu",
       "type": "text",
-      "x": 602.2464028332566,
-      "y": 45.59584328827083,
-      "width": 268.1797790527344,
+      "x": 753.9131203625535,
+      "y": -45.23740103545964,
+      "width": 276.1797790527344,
       "height": 25,
       "angle": 0,
-      "strokeColor": "#6741d9",
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 1,
@@ -4094,30 +4094,30 @@
       "index": "b2S",
       "roundness": null,
       "seed": 140445686,
-      "version": 380,
-      "versionNonce": 1388693430,
+      "version": 503,
+      "versionNonce": 2100229686,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1770934053843,
+      "updated": 1770945110842,
       "link": null,
       "locked": false,
-      "text": "Block Inbound PublicAccess",
+      "text": "Block Inbound Public Access",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Block Inbound PublicAccess",
+      "originalText": "Block Inbound Public Access",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
       "id": "VBCVVoh6dVbnypnF2H4uq",
       "type": "arrow",
-      "x": 310.8295584652757,
-      "y": -44.65690999567546,
-      "width": 47.597897977755565,
-      "height": 74.88700463124064,
+      "x": 367.4127377672897,
+      "y": -45.959591044682725,
+      "width": 4.471624628746611,
+      "height": 72.8570898550526,
       "angle": 0,
       "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
@@ -4133,11 +4133,11 @@
         "type": 2
       },
       "seed": 1427579242,
-      "version": 760,
-      "versionNonce": 996350890,
+      "version": 1137,
+      "versionNonce": 293238698,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1770935011291,
+      "updated": 1770945097374,
       "link": null,
       "locked": false,
       "points": [
@@ -4146,32 +4146,32 @@
           0
         ],
         [
-          -47.597897977755565,
-          74.88700463124064
+          4.471624628746611,
+          72.8570898550526
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "4a2gbjcpjj8bgwjSo84-a",
-        "focus": 0.7928906556565087,
-        "gap": 5.030321301715267
+        "focus": 0.05654239036589885,
+        "gap": 1
       },
       "endBinding": {
         "elementId": "UEwT_jSMDCXxet2XsoVCe",
-        "focus": -0.26885065015757575,
-        "gap": 11.273146735297487
+        "focus": 0.048075140890581854,
+        "gap": 11.273108588324817
       },
-      "startArrowhead": null,
-      "endArrowhead": "triangle",
+      "startArrowhead": "triangle",
+      "endArrowhead": null,
       "elbowed": false
     },
     {
       "id": "UEwT_jSMDCXxet2XsoVCe",
       "type": "text",
-      "x": 149.139664530814,
-      "y": 41.50324137086267,
-      "width": 276.59979248046875,
-      "height": 25,
+      "x": 297.0563820601109,
+      "y": 38.1706073986947,
+      "width": 146.97991943359375,
+      "height": 50,
       "angle": 0,
       "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
@@ -4185,8 +4185,8 @@
       "index": "b2b",
       "roundness": null,
       "seed": 1274742390,
-      "version": 599,
-      "versionNonce": 552226486,
+      "version": 897,
+      "versionNonce": 529179882,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4194,16 +4194,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1770934058256,
+      "updated": 1770945097374,
       "link": null,
       "locked": false,
-      "text": "Alllow Inbound Public Access",
+      "text": "Alllow Inbound \nPublic Access",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Alllow Inbound Public Access",
+      "originalText": "Alllow Inbound \nPublic Access",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -4356,7 +4356,7 @@
     {
       "id": "kKFnZuzEWobPi6BIi7f97",
       "type": "text",
-      "x": -247.1746332512364,
+      "x": -245.9246332512364,
       "y": 928.3087291095778,
       "width": 348.4038391113281,
       "height": 35,
@@ -4373,12 +4373,12 @@
       "index": "b2i",
       "roundness": null,
       "seed": 1304284778,
-      "version": 317,
-      "versionNonce": 499724662,
+      "version": 333,
+      "versionNonce": 1334920758,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1770935086264,
-      "link": null,
+      "updated": 1770945017557,
+      "link": "https://learn.microsoft.com/en-us/fabric/security/security-cross-workspace-communication#managed-private-endpoint",
       "locked": false,
       "text": "Managed private endpoint",
       "fontSize": 28,

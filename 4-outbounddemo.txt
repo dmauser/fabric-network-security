@@ -1,0 +1,25 @@
+# Storage Account
+samplestgmauser.blob.core.windows.net
+ResourceID: /subscriptions/43d55e51-58fe-486f-9e2a-ba56b8dd15de/resourceGroups/lab-vnet-encryption/providers/Microsoft.Storage/storageAccounts/samplestgmauser
+
+#SQL Server
+mausermsdn.database.windows.net
+ResourceID: /subscriptions/36ead89c-e817-4abc-ae66-5d29d23995bb/resourceGroups/sqldb/providers/Microsoft.Sql/servers/mausermsdn
+DB: mauserdb 
+
+1. Demo Managed Private Endpoint
+1.1 Create the Private Endpoint resources
+1.2 Demo Copy Data
+
+- Query SQL Database
+SELECT * FROM [dbo].[BikeSales]
+- Remove Table
+DROP TABLE[dbo].[BikeSales]
+
+2. VNET Data Gateway
+2.1 - Deployment over Virtual Network
+2.2 - Demo access to On-premises resources
+On-prem SQL Server: onprem-sqlvm.onprem.contoso.corp
+
+
+3. On-premises Data Gateway
