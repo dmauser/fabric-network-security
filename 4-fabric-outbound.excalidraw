@@ -6,8 +6,8 @@
     {
       "id": "PnLOQSMeJApVERocfiMTV",
       "type": "rectangle",
-      "x": 275.75231037442626,
-      "y": -155.56789664616667,
+      "x": 269.91910419766845,
+      "y": -155.56785849919402,
       "width": 230.39999389648438,
       "height": 172.79997253417963,
       "angle": 0,
@@ -25,11 +25,11 @@
         "type": 3
       },
       "seed": 1588538973,
-      "version": 915,
-      "versionNonce": 2062653972,
+      "version": 922,
+      "versionNonce": 557159664,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1770856322204,
+      "updated": 1771619979973,
       "link": null,
       "locked": false
     },
@@ -856,8 +856,8 @@
     {
       "id": "NuB-Lf9GHWuatsTpLSImP",
       "type": "rectangle",
-      "x": 141.3523775130982,
-      "y": 260.4321186126224,
+      "x": 139.26909504239507,
+      "y": 261.26555367121614,
       "width": 128.00009155273432,
       "height": 90.79998779296875,
       "angle": 0,
@@ -875,8 +875,8 @@
         "type": 3
       },
       "seed": 1444361619,
-      "version": 1723,
-      "versionNonce": 362287642,
+      "version": 1726,
+      "versionNonce": 240969968,
       "isDeleted": false,
       "boundElements": [
         {
@@ -884,15 +884,15 @@
           "id": "OxSRcwUChjNvAt4k-V8Oc"
         }
       ],
-      "updated": 1770992372176,
+      "updated": 1771619212609,
       "link": "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json&bc=fabric/data-factory/breadcrumb/toc.json",
       "locked": false
     },
     {
       "id": "OxSRcwUChjNvAt4k-V8Oc",
       "type": "text",
-      "x": 148.35247669522707,
-      "y": 268.33211250910676,
+      "x": 146.26919422452394,
+      "y": 269.1655475677005,
       "width": 113.99989318847656,
       "height": 75,
       "angle": 0,
@@ -908,11 +908,11 @@
       "index": "aTV",
       "roundness": null,
       "seed": 1814639293,
-      "version": 1532,
-      "versionNonce": 736455942,
+      "version": 1535,
+      "versionNonce": 917654256,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1770940301194,
+      "updated": 1771619212609,
       "link": null,
       "locked": false,
       "text": "On-premises\nData\nGateway",
