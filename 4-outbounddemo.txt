@@ -24,4 +24,3 @@ On-prem SQL Server: onprem-sqlvm.onprem.contoso.corp
 
 3. On-premises Data Gateway
 
-vra7l26pzjaevndodlgmhaio7a-rotkfoq4rrvudau4e35q4hrozu.database.fabric.microsoft.com,1433
