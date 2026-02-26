@@ -2,3 +2,8 @@ Workspace 1 - 4b948d7e-7a0c-491e-acc1-4c86b6170a79
 4b948d7e7a0c491eacc14c86b6170a79.z3c.w.api.fabric.microsoft.com
 Workspace 2 - 3ce22ac2-51d8-4212-8ca0-9cc20918af21
 3ce22ac251d842128ca09cc20918af21.z3c.w.api.fabric.microsoft.com
+
+
+Microsoft.PowerBI/privateLinkServicesForPowerBI/privateEndpointConnections
+
+Microsoft.Fabric/privateLinkServicesForFabric
